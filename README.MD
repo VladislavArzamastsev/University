@@ -26,9 +26,9 @@ In this repository we will share all kinds of materials:
 
 # 3 Abbreviations:
 This applies only to subjects:
-- AC - Computer Architecture (АОС)
 - AG - Algebra and Geometry (АГ)
 - C++ - OOP (ООП)
+- CA - Computer Architecture (АОС)
 - CMPSD - Computer Methods of Processing Socio-economic Data (КМОСЕД)
 - CN - Computer Networks (КМ)
 - DB - Database Design Basics (ОПБЗ)
@@ -38,7 +38,7 @@ This applies only to subjects:
 - MTA - Matlogics and Theory of Algorithms (Матлогика и теория алгоритмов)
 - Matan - Matanalysis (Матанализ)
 - NM - Numerical Methods (Численные методы)
-- OP - Operations Research - (ИО)
+- OP - Operations Research (ИО)
 - PT - Probability Theory (Теория вероятности)
 - Ph - Philosophy (Философия)
 - Python - Programming (Программирование)
