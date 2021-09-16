@@ -26,24 +26,24 @@ In this repository we will share all kinds of materials:
 
 # 3 Abbreviations:
 This applies only to subjects:
-- AG - Algebra and Geometry (АГ)
 - AC - Computer Architecture (АОС)
+- AG - Algebra and Geometry (АГ)
 - C++ - OOP (ООП)
+- CMPSD - Computer Methods of Processing Socio-economic Data (КМОСЕД)
 - CN - Computer Networks (КМ)
 - DB - Database Design Basics (ОПБЗ)
 - DE - Differential Equations (Диффуры)
 - DM - Discrete Math (ДМ)
-- OP - Operations Research - (ИО)
-- CMPSD - Computer Methods of Processing Socio-economic Data (КМОСЕД)
-- Matan - Matanalysis (Матанализ)
+- DT - Decision Theory (Теория принятия решений)
 - MTA - Matlogics and Theory of Algorithms (Матлогика и теория алгоритмов)
+- Matan - Matanalysis (Матанализ)
 - NM - Numerical Methods (Численные методы)
+- OP - Operations Research - (ИО)
+- PT - Probability Theory (Теория вероятности)
 - Ph - Philosophy (Философия)
 - Python - Programming (Программирование)
 - SA - System Analysis (Системный анализ)
 - SO - System Optimisation (Систменая оптимизация)
-- DT - Decision Theory (Теория принятия решений)
-- PT - Probability Theory (Теория вероятности)
 
 # 4. Naming: 
 - Files must be .pdf
