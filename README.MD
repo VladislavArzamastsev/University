@@ -15,7 +15,7 @@ In this repository we will share all kinds of materials:
 # 1 General
 - No links to external resources are permitted
 - No executable files, scripts (except for .sql), programms etc
-- Please, refrain from sharing content from those who didn't contribute
+- Please, refrain from sharing content with those who didn't contribute
 
 # 2. Git flow
 # *DO NOT COMMIT DIRECTLY TO MASTER*
