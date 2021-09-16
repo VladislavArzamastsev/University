@@ -31,7 +31,7 @@ This applies only to subjects:
 - CA - Computer Architecture (АОС)
 - CMPSD - Computer Methods of Processing Socio-economic Data (КМОСЕД)
 - CN - Computer Networks (КМ)
-- DB - Database Design Basics (ОПБЗ)
+- DDB - Database Design Basics (ОПБЗ)
 - DE - Differential Equations (Диффуры)
 - DM - Discrete Math (ДМ)
 - DT - Decision Theory (Теория принятия решений)
